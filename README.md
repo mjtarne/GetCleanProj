@@ -1,1 +1,3 @@
-# GetCleanProj
+#Getting and Cleaning Data Course Project
+
+This contains several files: most of them are the data for the project. The code to run everything is contained in run_analysis.R; this compiles the data sets, extracts means and std devs on the data, and renames as to make the data as clear as possible. The codebook is contained in the file Codebook.md. The dataset used is the UCI Human Activities Recognition dataset; the final output is contained in the text file average_data.txt.
